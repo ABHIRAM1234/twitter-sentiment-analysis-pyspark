@@ -1,9 +1,7 @@
 # Twitter Sentiment Analysis (PySpark)
 ## About
 This repo contains all the notebooks used for sentimental analysis on the [Sentiment140](http://help.sentiment140.com/for-students) dataset with PySpark.
-It was developed part of an end-of-term project for 8INF919 : Machine Learning for Big Data at [UQAC](https://www.uqac.ca/) in collaboration with [Thomas Sirvent](https://github.com/LargeWaffle).
-
-You can find in the repo the LaTeX report and the presentation slides associated to this project (in french). If you'd like to read english explanations check it out my [website](https://clementdelteil.com/projects/1-twitter-sentiment). 
+It was developed as part of my course: Big Data
 
 ## Models used
 We worked with the following models :
